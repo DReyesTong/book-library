@@ -1,6 +1,8 @@
 # Personal Book Library
 A simple web application built using React on the frontend and Express on the backend. Users can manage their book collection by adding, viewing, updating, and deleting books.
 
+![Screenshot of My Project](https://i.imgur.com/9kRwSNt.png)
+
 ## Features
 Add Books: Users can add books with a title, author, and description.
 View Books: All added books are listed on the main page.
