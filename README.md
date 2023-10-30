@@ -5,7 +5,7 @@ A simple web application built using React on the frontend and Express on the ba
 Add Books: Users can add books with a title, author, and description.
 View Books: All added books are listed on the main page.
 Delete Books: Users can delete books from their list.
-Update Books: Users can edit and update book details.
+
 
 ## Technologies Used
 Frontend: React.js
@@ -19,29 +19,26 @@ Node.js & npm
 SQLite (if using a local SQLite database)
 
 ## Steps
-Clone the Repository
+#### Clone the Repository 
 
 
 
-git clone [your-repository-url]
-cd book-library
-Install Dependencies
+git clone [your-repository-url] <br>
+cd book-library <br>
+#### Install Dependencies <br>
 
 
 
-cd client
-npm install
-cd ..
-npm install
-Run the Backend Server
+cd client <br>
+npm install <br>
+cd .. <br>
+npm install <br>
 
+#### Run the Backend Server 
+npm start <br>
 
+#### Run the Frontend 
+cd client <br>
+npm start <br>
 
-npm start
-Run the Frontend
-
-
-
-cd client
-npm start
-The frontend should now be running on http://localhost:3000/ and the backend on http://localhost:5000/. on http://localhost:5000/.
+The frontend should now be running on http://localhost:3000/ and the backend on http://localhost:5000/. on http://localhost:5000/. <br>
