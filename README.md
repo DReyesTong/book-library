@@ -1,24 +1,24 @@
-#Personal Book Library
+# Personal Book Library
 A simple web application built using React on the frontend and Express on the backend. Users can manage their book collection by adding, viewing, updating, and deleting books.
 
-##Features
+## Features
 Add Books: Users can add books with a title, author, and description.
 View Books: All added books are listed on the main page.
 Delete Books: Users can delete books from their list.
 Update Books: Users can edit and update book details.
 
-##Technologies Used
+## Technologies Used
 Frontend: React.js
 Backend: Express.js, SQLite (for the database)
 HTTP Client: Axios
 Styling: CSS
 
-##Setup & Installation
-##Prerequisites
+## Setup & Installation
+## Prerequisites
 Node.js & npm
 SQLite (if using a local SQLite database)
 
-##Steps
+## Steps
 Clone the Repository
 
 
